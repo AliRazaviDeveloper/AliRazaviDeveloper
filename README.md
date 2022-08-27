@@ -85,6 +85,7 @@
   </tr>
 
 </table>
+
 <a href="https://github.com/AliRazaviDeveloper">
-<a href="https://github.com/AliRazaviDeveloper">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRazaviDeveloper&theme=nord" />
 </a>
