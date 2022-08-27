@@ -1,5 +1,5 @@
 <h1 align="left" id="AliRazaviDeveloper-title">:wave: Hello there! I'm AliRazavi</h1>
-<h3 align="left">I am a Front End Developer, doing Web application development</h3>
+<h3 align="left">I am a Front End Developer</h3>
 
 <p align="left">
   <a href="https://github.com/AliRazaviDeveloper">
